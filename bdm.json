@@ -1,0 +1,10 @@
+{
+  "bdm::Param": {
+    "export_visualization": true,
+    "visualization_interval": 1,
+    "visualize_agents": {
+       "HET": ["cell_type_", "diameter_", "Volume_eps_", "Volume_cell_"],
+       "EPS": ["cell_type_", "diameter_"]
+    }
+  }
+}

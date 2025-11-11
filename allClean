@@ -1,0 +1,6 @@
+#!/bin/bash
+
+rm output/agents/*
+rm output/removed/*
+rm output/removed/QS/*
+rm -r output/steady_state_phy/*
